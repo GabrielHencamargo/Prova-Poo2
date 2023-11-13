@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\bin\Debug\net6.0\caQuestão1.exe
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\bin\Debug\net6.0\caQuestão1.deps.json
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\bin\Debug\net6.0\caQuestão1.runtimeconfig.json
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\bin\Debug\net6.0\caQuestão1.dll
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\bin\Debug\net6.0\caQuestão1.pdb
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\caQuestão1.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\caQuestão1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\caQuestão1.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\caQuestão1.AssemblyInfo.cs
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\caQuestão1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\caQuestão1.dll
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\refint\caQuestão1.dll
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\caQuestão1.pdb
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\caQuestão1.genruntimeconfig.cache
+C:\Users\gabri\source\repos\caQuestão1\caQuestão1\obj\Debug\net6.0\ref\caQuestão1.dll
